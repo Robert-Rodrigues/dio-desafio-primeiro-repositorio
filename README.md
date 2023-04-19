@@ -1,1 +1,1 @@
-# dio-desafio-primeiro-repositorio
+# Repositório do primeiro desafio do curso sobre Git e GitHub da DIO
